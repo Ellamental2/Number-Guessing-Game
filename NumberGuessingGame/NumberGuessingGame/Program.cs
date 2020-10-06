@@ -20,11 +20,11 @@ namespace NumberGuessingGame
                 // Highest posible value
                 var upperBound = 100;
 
-                // Declare userGuess as a number outside of the possible range.
+                // Declare the users guess to be incorrect.
                 var correct = false;
 
-                // Create random number
-                var target = new Random().Next(101);
+                // Create random number between the lower and upper bound.
+                var target = new Random().Next(upperBound + 1) + lowerBound;
 
                 #endregion
 
