@@ -1,0 +1,13 @@
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.exe
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.deps.json
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.json
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.dev.json
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.dll
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csprojAssemblyReference.cache
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfoInputs.cache
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfo.cs
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csproj.CoreCompileInputs.cache
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.dll
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.genruntimeconfig.cache
