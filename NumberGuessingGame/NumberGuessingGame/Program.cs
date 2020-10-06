@@ -99,8 +99,8 @@ namespace NumberGuessingGame
         /// </summary>
         /// <param name="userGuess"> The number guessed by the user. </param>
         /// <param name="target"> The target number. </param>
-        /// <param name="lowerBound"> The minimum number + 1. </param>
-        /// <param name="upperBound"> The maximum Number - 1. </param>
+        /// <param name="lowerBound"> The minimum possible number </param>
+        /// <param name="upperBound"> The maximum possible Number. </param>
         /// <returns></returns>
         private static bool IsGuessCorrect(int userGuess, int target, ref int lowerBound, ref int upperBound)
         {
