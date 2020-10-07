@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Ellam\\Documents\\Code\\Random Csharp\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj": {}
+    "J:\\Users\\ellam\\Documents\\Code\\GitHub\\Number-Guessing-Game\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj": {}
   },
   "projects": {
-    "J:\\Ellam\\Documents\\Code\\Random Csharp\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj": {
+    "J:\\Users\\ellam\\Documents\\Code\\GitHub\\Number-Guessing-Game\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Ellam\\Documents\\Code\\Random Csharp\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
+        "projectUniqueName": "J:\\Users\\ellam\\Documents\\Code\\GitHub\\Number-Guessing-Game\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
         "projectName": "NumberGuessingGame",
-        "projectPath": "J:\\Ellam\\Documents\\Code\\Random Csharp\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
+        "projectPath": "J:\\Users\\ellam\\Documents\\Code\\GitHub\\Number-Guessing-Game\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
         "packagesPath": "C:\\Users\\Ellam\\.nuget\\packages\\",
-        "outputPath": "J:\\Ellam\\Documents\\Code\\Random Csharp\\NumberGuessingGame\\NumberGuessingGame\\obj\\",
+        "outputPath": "J:\\Users\\ellam\\Documents\\Code\\GitHub\\Number-Guessing-Game\\NumberGuessingGame\\NumberGuessingGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

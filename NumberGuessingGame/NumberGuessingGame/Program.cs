@@ -15,16 +15,16 @@ namespace NumberGuessingGame
 
                 #region public values
                 // Lowest possible value
-                var lowerBound = 0;
+                var lowerBound = 500;
 
                 // Highest posible value
-                var upperBound = 100;
+                var upperBound = 600;
 
                 // Declare the users guess to be incorrect.
                 var correct = false;
 
-                // Create random number between the lower and upper bound.
-                var target = new Random().Next(upperBound + 1) + lowerBound;
+                // Create random number between the lower and upper bound
+                var target = new Random().Next(upperBound - lowerBound) + lowerBound;
 
                 #endregion
 

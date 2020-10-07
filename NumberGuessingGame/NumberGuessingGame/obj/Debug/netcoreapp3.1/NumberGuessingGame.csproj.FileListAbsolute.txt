@@ -11,3 +11,16 @@ J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\
 J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.dll
 J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.pdb
 J:\Ellam\Documents\Code\Random Csharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.genruntimeconfig.cache
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.exe
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.deps.json
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.json
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.dev.json
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.dll
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csprojAssemblyReference.cache
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfoInputs.cache
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfo.cs
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csproj.CoreCompileInputs.cache
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.dll
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+J:\Users\ellam\Documents\Code\GitHub\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.genruntimeconfig.cache
